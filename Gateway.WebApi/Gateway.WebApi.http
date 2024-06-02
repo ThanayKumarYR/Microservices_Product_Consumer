@@ -1,0 +1,6 @@
+@Gateway_WebApi_HostAddress = http://localhost:7032
+
+GET {{Gateway_WebApi_HostAddress}}/apiGateway/
+Accept: application/json
+
+###

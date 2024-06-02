@@ -1,0 +1,6 @@
+@Customer_Microservice_HostAddress = http://localhost:7192
+
+GET {{Customer_Microservice_HostAddress}}/customer/
+Accept: application/json
+
+###
